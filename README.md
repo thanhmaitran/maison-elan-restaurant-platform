@@ -1,6 +1,11 @@
-https://maison-elan-restaurant-platform.onrender.com/
 # Maison Élan — Restaurant Platform
-
+<p align="center">
+  <strong>An elegant restaurant experience, powered by modern web technology.</strong>
+  <br><br>
+  <a href="https://maison-elan-restaurant-platform.onrender.com/">🌐 Live Demo</a>
+  &nbsp; · &nbsp;
+  <a href="YOUR_GITHUB_REPOSITORY_URL">💻 Source Code</a>
+</p>
 A full-stack restaurant platform built as a portfolio project: public website, customer accounts, dine-in and collection ordering, table reservations, reviews, an admin dashboard and a rule-based AI Concierge. It runs with **no npm dependencies** on Node.js and SQLite.
 
 > **Maison Élan is a fictional restaurant created for portfolio and educational purposes.** Menu items, prices, allergen records, bookings, orders and customer records are demonstration data. It is not a real booking or payment service.
