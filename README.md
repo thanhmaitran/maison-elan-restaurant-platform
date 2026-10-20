@@ -1,3 +1,4 @@
+https://maison-elan-restaurant-platform.onrender.com/
 # Maison Élan — Restaurant Platform
 
 A full-stack restaurant platform built as a portfolio project: public website, customer accounts, dine-in and collection ordering, table reservations, reviews, an admin dashboard and a rule-based AI Concierge. It runs with **no npm dependencies** on Node.js and SQLite.
