@@ -174,12 +174,6 @@ Simulated webhook tests prove that the server verifies signatures, ignores repea
 - There is no password-reset or account-management screen yet.
 - The stack differs from the original specification (Node.js and SQLite instead of Next.js, FastAPI and PostgreSQL). Admin write actions use `POST` rather than `PATCH`.
 
-## Before Publishing the Repository
-- [ ] Decide which contact details should be public. The defaults in `server.js` and the screenshots show the proprietor's name, email and phone number; use a dedicated portfolio email and public number if you prefer.
-- [ ] Check every file in `docs/screenshots/` for private emails, names, cookies, tokens or personal data (the account screenshots show a test user's name and email).
-- [ ] Confirm no passwords, Stripe keys, session cookies or `.env` files are committed. `.gitignore` excludes `.env`, `node_modules/`, `*.log` and `data/*.db*`.
-- [ ] Confirm photo credits in `docs/ASSET_SOURCES.md`, and replace the stock photos with your own if you want to present them as the restaurant's photography. Do not publish the watermarked iStock files.
-- [ ] Use HTTPS and persistent storage when deploying, and do not expose a local LLM endpoint publicly.
 
 ## Troubleshooting
 - **`node:sqlite` not found / server fails to start:** upgrade to Node.js 22.5 or newer (`node --version`).
