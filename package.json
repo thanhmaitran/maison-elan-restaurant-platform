@@ -1,0 +1,12 @@
+{
+ "name": "maison-elan-restaurant-platform",
+ "version": "1.0.0",
+ "private": true,
+ "engines": {
+  "node": ">=22.5"
+ },
+ "scripts": {
+  "start": "node server.js",
+  "test": "node tests/smoke.js && node tests/accounts.js && node tests/payments.js && node tests/admin-ai.js"
+ }
+}
