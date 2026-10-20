@@ -1,0 +1,65 @@
+[
+ {
+  "id": "CUS-001",
+  "name": "Olivia Bennett",
+  "email": "olivia.bennett@example.com",
+  "phone": "+44 7700 900101",
+  "role": "customer",
+  "status": "active",
+  "demo_only": true
+ },
+ {
+  "id": "CUS-002",
+  "name": "James Carter",
+  "email": "james.carter@example.com",
+  "phone": "+44 7700 900102",
+  "role": "customer",
+  "status": "active",
+  "demo_only": true
+ },
+ {
+  "id": "CUS-003",
+  "name": "Amelia Hughes",
+  "email": "amelia.hughes@example.com",
+  "phone": "+44 7700 900103",
+  "role": "customer",
+  "status": "active",
+  "demo_only": true
+ },
+ {
+  "id": "CUS-004",
+  "name": "Noah Williams",
+  "email": "noah.williams@example.com",
+  "phone": "+44 7700 900104",
+  "role": "customer",
+  "status": "active",
+  "demo_only": true
+ },
+ {
+  "id": "CUS-005",
+  "name": "Isla Morgan",
+  "email": "isla.morgan@example.com",
+  "phone": "+44 7700 900105",
+  "role": "customer",
+  "status": "active",
+  "demo_only": true
+ },
+ {
+  "id": "CUS-006",
+  "name": "Staff Demo",
+  "email": "staff@example.com",
+  "phone": null,
+  "role": "staff",
+  "status": "active",
+  "demo_only": true
+ },
+ {
+  "id": "CUS-007",
+  "name": "Admin Demo",
+  "email": "admin@example.com",
+  "phone": null,
+  "role": "admin",
+  "status": "active",
+  "demo_only": true
+ }
+]

@@ -1,0 +1,1690 @@
+[
+  {
+    "id": "ME-001",
+    "slug": "heritage-tomato-burrata",
+    "name": "Heritage Tomato & Burrata",
+    "category": "Starters",
+    "subcategory": "Cold Plates",
+    "price_gbp": 12.5,
+    "serving_size": "Designed for one guest to share or enjoy as a light starter",
+    "short_description": "Ripe heritage tomatoes, creamy burrata, basil oil and toasted sourdough.",
+    "description": "A bright, summery opening dish built around ripe heritage tomatoes in varied colours and textures. A soft ball of burrata is opened at the table or just before serving, allowing its creamy centre to mingle with the tomato juices. Basil oil adds a fresh herbal aroma, while a light sherry-vinegar dressing gives the plate a gentle tang. Finished with cracked black pepper, flaky sea salt and crisp sourdough for scooping up the dressing.",
+    "ingredients": [
+      "heritage tomatoes",
+      "burrata cheese",
+      "fresh basil",
+      "extra-virgin olive oil",
+      "sherry vinegar",
+      "sourdough bread",
+      "black pepper",
+      "sea salt"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "Best served at room temperature so the tomatoes retain their fragrance.",
+    "image_key": "heritage-tomato-burrata"
+  },
+  {
+    "id": "ME-002",
+    "slug": "whipped-goats-cheese-beetroot",
+    "name": "Whipped Goat’s Cheese & Heritage Beetroot",
+    "category": "Starters",
+    "subcategory": "Vegetarian Plates",
+    "price_gbp": 11.0,
+    "serving_size": "One starter portion",
+    "short_description": "Silky goat’s cheese, roasted beetroot, orange, hazelnut crumb and garden leaves.",
+    "description": "Earthy beetroot is slowly roasted until tender, then cut into jewel-like wedges and dressed with orange zest and a little citrus juice. A whipped goat’s cheese cream provides a tangy, cloud-soft contrast. Toasted hazelnut crumb adds warmth and crunch, while tender garden leaves bring a fresh finish. The overall flavour moves from sweet and earthy to creamy, nutty and lightly citrusy, without becoming heavy.",
+    "ingredients": [
+      "goat's cheese",
+      "beetroot",
+      "orange",
+      "hazelnuts",
+      "double cream",
+      "mixed leaves",
+      "olive oil",
+      "lemon juice"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Tree nuts (hazelnut)",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free by listed ingredients"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Keep the hazelnut crumb separate until plating to preserve its crunch.",
+    "image_key": "goats-cheese-beetroot"
+  },
+  {
+    "id": "ME-003",
+    "slug": "wild-mushroom-arancini",
+    "name": "Wild Mushroom & Parmesan Arancini",
+    "category": "Starters",
+    "subcategory": "Warm Plates",
+    "price_gbp": 10.5,
+    "serving_size": "Three crisp arancini",
+    "short_description": "Golden risotto croquettes with wild mushrooms, Parmesan and truffle aioli.",
+    "description": "Creamy risotto is folded with finely chopped wild mushrooms, herbs and aged Parmesan, shaped into small rounds, coated in breadcrumbs and fried until the outside is delicately crisp. The centre stays soft and savoury, with mushroom depth balanced by the salty nuttiness of the cheese. A small spoon of truffle aioli provides an earthy aroma; baby herbs and lemon zest keep the finish lively.",
+    "ingredients": [
+      "arborio rice",
+      "wild mushrooms",
+      "Parmesan",
+      "vegetable stock",
+      "shallots",
+      "breadcrumbs",
+      "egg",
+      "garlic mayonnaise",
+      "truffle oil",
+      "parsley",
+      "lemon"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      },
+      {
+        "name": "Egg",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "Serve immediately after frying; the contrast between crisp shell and creamy centre is essential.",
+    "image_key": "wild-mushroom-arancini"
+  },
+  {
+    "id": "ME-004",
+    "slug": "seared-scallops-cauliflower",
+    "name": "Seared Scallops, Cauliflower Purée & Caper Butter",
+    "category": "Starters",
+    "subcategory": "Seafood",
+    "price_gbp": 16.5,
+    "serving_size": "Three scallops",
+    "short_description": "Sweet scallops, smooth cauliflower purée, browned butter and crisp capers.",
+    "description": "Plump scallops are seared briefly over high heat to create a golden surface while keeping the centre tender. They sit on a velvety cauliflower purée with a mild, gently sweet flavour. Browned butter brings toasted, nutty notes, while capers add a sharp saline lift that cuts through the richness. A few micro herbs and a fine squeeze of lemon complete this restrained, restaurant-style seafood plate.",
+    "ingredients": [
+      "scallops",
+      "cauliflower",
+      "butter",
+      "milk",
+      "capers",
+      "lemon",
+      "parsley",
+      "olive oil"
+    ],
+    "allergens": [
+      {
+        "name": "Molluscs (scallop)",
+        "status": "contains"
+      },
+      {
+        "name": "Milk",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "gluten-free by listed ingredients"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "Scallops are best cooked to order; do not hold them under heat for long.",
+    "image_key": "seared-scallops"
+  },
+  {
+    "id": "ME-005",
+    "slug": "chicken-liver-parfait",
+    "name": "Chicken Liver Parfait & Fig Chutney",
+    "category": "Starters",
+    "subcategory": "Classic Plates",
+    "price_gbp": 12.0,
+    "serving_size": "Parfait for sharing with toasted brioche",
+    "short_description": "Smooth chicken liver parfait, fig chutney, pickled shallot and brioche.",
+    "description": "A classic French-inspired starter with a silky, spreadable chicken liver parfait, carefully seasoned for a rounded savoury flavour. Fig chutney contributes deep fruit sweetness and a gentle acidity, while pickled shallot adds a crisp, tangy counterpoint. Thick slices of toasted brioche offer a buttery, lightly sweet base. The dish is rich, so the chutney and pickled shallot are intentionally generous enough to balance each bite.",
+    "ingredients": [
+      "chicken livers",
+      "butter",
+      "double cream",
+      "eggs",
+      "shallots",
+      "figs",
+      "red wine vinegar",
+      "brioche",
+      "thyme"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Egg",
+        "status": "contains"
+      },
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      },
+      {
+        "name": "Sulphites",
+        "status": "may contain; verify supplier specification"
+      }
+    ],
+    "dietary_tags": [],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Serve chilled but not refrigerator-hard; allow a short tempering period before service.",
+    "image_key": "chicken-liver-parfait"
+  },
+  {
+    "id": "ME-006",
+    "slug": "crispy-calamari-lemon-aioli",
+    "name": "Crispy Calamari & Lemon Aioli",
+    "category": "Starters",
+    "subcategory": "Seafood",
+    "price_gbp": 11.5,
+    "serving_size": "A sharing bowl for two or a generous starter",
+    "short_description": "Lightly crisp squid, lemon aioli, parsley and a bright herb salad.",
+    "description": "Tender squid rings and small tentacles are lightly coated in seasoned flour and fried until crisp rather than heavy. The coating is designed to stay delicate, allowing the squid’s mild sweetness to come through. Lemon aioli adds a creamy citrus note, while parsley, lemon zest and a few finely sliced pickled onions bring freshness. Served hot with lemon wedges for a clean, lively finish.",
+    "ingredients": [
+      "squid",
+      "wheat flour",
+      "cornflour",
+      "egg",
+      "rapeseed oil",
+      "garlic",
+      "lemon",
+      "mayonnaise",
+      "parsley"
+    ],
+    "allergens": [
+      {
+        "name": "Molluscs (squid)",
+        "status": "contains"
+      },
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      },
+      {
+        "name": "Egg",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [],
+    "spice_level": "mild",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Drain thoroughly and season as soon as the squid leaves the fryer.",
+    "image_key": "crispy-calamari"
+  },
+  {
+    "id": "ME-007",
+    "slug": "french-onion-soup",
+    "name": "Slow-Cooked French Onion Soup",
+    "category": "Starters",
+    "subcategory": "Soups",
+    "price_gbp": 9.5,
+    "serving_size": "One crock",
+    "short_description": "Deeply caramelised onions, thyme broth, toasted baguette and melted Gruyère.",
+    "description": "Onions are cooked slowly until sweet, golden and deeply savoury, then simmered with thyme and a rich vegetable-based broth. The soup is served in a crock with toasted baguette and Gruyère melted over the top. Each spoonful combines sweet onion, aromatic herbs, savoury stock and a little cheese richness. It is a comforting classic with a long, rounded finish rather than a sharp onion bite.",
+    "ingredients": [
+      "onions",
+      "vegetable stock",
+      "thyme",
+      "butter",
+      "baguette",
+      "Gruyère cheese",
+      "black pepper"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian if stock is verified vegetarian"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "For the demo recipe, label the stock source explicitly before publishing dietary claims.",
+    "image_key": "french-onion-soup"
+  },
+  {
+    "id": "ME-008",
+    "slug": "smoked-salmon-rillette",
+    "name": "Smoked Salmon Rillette & Cucumber Pickle",
+    "category": "Starters",
+    "subcategory": "Cold Plates",
+    "price_gbp": 13.0,
+    "serving_size": "One starter with rye crisps",
+    "short_description": "Flaked smoked salmon, crème fraîche, dill, lemon and crisp rye.",
+    "description": "Smoked salmon is gently flaked and folded with crème fraîche, lemon zest, dill and finely chopped shallot to create a soft, spoonable rillette. The texture remains intentionally rustic, with visible flakes of fish rather than a smooth mousse. Quick-pickled cucumber adds a cool, refreshing crunch, while rye crisps contribute a toasted, earthy note. The result is creamy and smoky but lifted by citrus and herbs.",
+    "ingredients": [
+      "smoked salmon",
+      "crème fraîche",
+      "dill",
+      "lemon",
+      "shallot",
+      "cucumber",
+      "rye bread",
+      "vinegar"
+    ],
+    "allergens": [
+      {
+        "name": "Fish (salmon)",
+        "status": "contains"
+      },
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Gluten (rye; check bread specification)",
+        "status": "contains or verify supplier specification"
+      }
+    ],
+    "dietary_tags": [],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Keep chilled and add the cucumber pickle just before serving.",
+    "image_key": "smoked-salmon-rillette"
+  },
+  {
+    "id": "ME-009",
+    "slug": "beef-tartare-hand-cut",
+    "name": "Hand-Cut Beef Tartare",
+    "category": "Starters",
+    "subcategory": "Classic Plates",
+    "price_gbp": 15.5,
+    "serving_size": "One starter portion",
+    "short_description": "Hand-cut beef, Dijon mustard, capers, shallot, cornichons and egg yolk.",
+    "description": "Finely diced beef is seasoned to order with Dijon mustard, capers, shallot, cornichons and a restrained touch of Worcestershire-style seasoning. The texture is deliberately hand-cut so the beef remains distinct rather than minced into a paste. A glossy egg yolk adds richness, while toasted sourdough provides crunch. This is a bold, savoury starter designed for guests who enjoy a classic raw-beef preparation.",
+    "ingredients": [
+      "beef tenderloin",
+      "egg yolk",
+      "Dijon mustard",
+      "capers",
+      "shallots",
+      "cornichons",
+      "Worcestershire-style sauce",
+      "sourdough bread"
+    ],
+    "allergens": [
+      {
+        "name": "Egg",
+        "status": "contains"
+      },
+      {
+        "name": "Mustard",
+        "status": "contains"
+      },
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      },
+      {
+        "name": "Fish (possible in Worcestershire-style sauce; verify brand)",
+        "status": "verify supplier specification"
+      }
+    ],
+    "dietary_tags": [],
+    "spice_level": "mild",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Fictional demo item; a real service would require strict sourcing, cold-chain and food-safety controls.",
+    "image_key": "beef-tartare"
+  },
+  {
+    "id": "ME-010",
+    "slug": "butternut-squash-sage-ravioli",
+    "name": "Butternut Squash & Sage Ravioli",
+    "category": "Starters",
+    "subcategory": "Pasta",
+    "price_gbp": 13.5,
+    "serving_size": "Six ravioli",
+    "short_description": "Fresh pasta parcels, roasted squash, brown butter, sage and toasted pumpkin seeds.",
+    "description": "Fresh pasta parcels are filled with roasted butternut squash, a little ricotta and nutmeg. They are dressed in nutty brown butter infused with crisp sage leaves, then finished with toasted pumpkin seeds and a fine snowfall of hard cheese. The squash brings natural sweetness, the sage adds an aromatic savoury edge and the pumpkin seeds provide a gentle crunch. A small amount of lemon zest keeps the butter from feeling too rich.",
+    "ingredients": [
+      "wheat pasta",
+      "butternut squash",
+      "ricotta",
+      "butter",
+      "sage",
+      "pumpkin seeds",
+      "nutmeg",
+      "hard cheese",
+      "lemon"
+    ],
+    "allergens": [
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      },
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Egg",
+        "status": "verify pasta recipe"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "Finish with brown butter only after the ravioli are drained so the sauce clings evenly.",
+    "image_key": "squash-ravioli"
+  },
+  {
+    "id": "ME-011",
+    "slug": "roast-chicken-supreme",
+    "name": "Roast Chicken Supreme",
+    "category": "Main Courses",
+    "subcategory": "Poultry",
+    "price_gbp": 24.0,
+    "serving_size": "One main course",
+    "short_description": "Herb-roasted chicken breast, fondant potato, glazed carrots and thyme jus.",
+    "description": "Chicken supreme is roasted until the skin is golden and crisp while the meat stays succulent. It is served with a fondant potato browned in butter, glazed seasonal carrots and a thyme-scented jus made from roasted aromatics. The sauce is glossy and savoury, designed to complement the chicken rather than overwhelm it. Fresh parsley and a touch of lemon brighten the final plate.",
+    "ingredients": [
+      "chicken breast with skin",
+      "potato",
+      "carrots",
+      "butter",
+      "chicken stock",
+      "thyme",
+      "shallots",
+      "parsley",
+      "lemon"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Celery",
+        "status": "verify stock specification"
+      }
+    ],
+    "dietary_tags": [
+      "gluten-free by listed ingredients; verify stock"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "Use a verified stock specification before making allergen or dietary promises.",
+    "image_key": "roast-chicken-supreme"
+  },
+  {
+    "id": "ME-012",
+    "slug": "dry-aged-beef-fillet",
+    "name": "Dry-Aged Beef Fillet, Peppercorn Sauce",
+    "category": "Main Courses",
+    "subcategory": "From the Grill",
+    "price_gbp": 36.0,
+    "serving_size": "One main course; steak weight shown on final menu",
+    "short_description": "Beef fillet, crushed potatoes, charred tenderstem broccoli and creamy peppercorn sauce.",
+    "description": "A tender beef fillet is seared for a deeply browned crust and finished to the guest’s requested doneness where operationally supported. Crushed potatoes are roasted with herbs until crisp at the edges and soft in the centre. Charred tenderstem broccoli brings a green, lightly smoky contrast. The peppercorn sauce is creamy and gently warming, with cracked pepper providing a lingering savoury heat rather than overwhelming the beef.",
+    "ingredients": [
+      "beef fillet",
+      "potatoes",
+      "tenderstem broccoli",
+      "double cream",
+      "beef stock",
+      "green peppercorns",
+      "butter",
+      "shallots",
+      "thyme"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Celery",
+        "status": "verify stock specification"
+      }
+    ],
+    "dietary_tags": [
+      "gluten-free by listed ingredients; verify stock"
+    ],
+    "spice_level": "mild",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "In a real menu, specify steak weight and doneness options clearly.",
+    "image_key": "beef-fillet"
+  },
+  {
+    "id": "ME-013",
+    "slug": "pan-roasted-sea-bass",
+    "name": "Pan-Roasted Sea Bass, Fennel & Lemon Beurre Blanc",
+    "category": "Main Courses",
+    "subcategory": "Seafood",
+    "price_gbp": 28.5,
+    "serving_size": "One main course",
+    "short_description": "Crisp-skinned sea bass, braised fennel, crushed new potatoes and lemon butter sauce.",
+    "description": "Sea bass is cooked skin-side down to achieve a thin, crisp skin and a moist, delicate flesh. Braised fennel softens into a gentle aniseed sweetness, while crushed new potatoes soak up the lemon beurre blanc. The sauce is buttery and bright, balancing richness with citrus acidity. Dill fronds and finely grated lemon zest add a fresh aromatic finish to this elegant coastal-inspired plate.",
+    "ingredients": [
+      "sea bass",
+      "fennel",
+      "new potatoes",
+      "butter",
+      "white wine",
+      "shallots",
+      "lemon",
+      "dill"
+    ],
+    "allergens": [
+      {
+        "name": "Fish (sea bass)",
+        "status": "contains"
+      },
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Sulphites",
+        "status": "verify wine specification"
+      }
+    ],
+    "dietary_tags": [
+      "gluten-free by listed ingredients"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "Check fish bones carefully and keep the skin crisp until service.",
+    "image_key": "sea-bass"
+  },
+  {
+    "id": "ME-014",
+    "slug": "wild-mushroom-wellington",
+    "name": "Wild Mushroom Wellington",
+    "category": "Main Courses",
+    "subcategory": "Vegetarian Mains",
+    "price_gbp": 23.5,
+    "serving_size": "One main course",
+    "short_description": "Mushroom duxelles wrapped in golden puff pastry with red wine-style jus and greens.",
+    "description": "A savoury mixture of finely chopped wild mushrooms, shallots, thyme and chestnuts is cooked down until concentrated and wrapped in flaky puff pastry. The pastry bakes to a deep golden colour, creating a crisp shell around the rich, earthy filling. Served with seasonal greens and a glossy vegetarian jus, the dish offers a satisfying centrepiece with layers of buttery pastry, woodland aroma and gentle herbal notes.",
+    "ingredients": [
+      "puff pastry",
+      "wild mushrooms",
+      "chestnuts",
+      "shallots",
+      "thyme",
+      "spinach",
+      "vegetarian stock",
+      "olive oil"
+    ],
+    "allergens": [
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      },
+      {
+        "name": "Milk",
+        "status": "verify pastry specification"
+      },
+      {
+        "name": "Tree nuts (chestnut)",
+        "status": "contains"
+      },
+      {
+        "name": "Sulphites",
+        "status": "verify jus ingredients"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "Keep the filling dry and cool before wrapping to avoid soggy pastry.",
+    "image_key": "mushroom-wellington"
+  },
+  {
+    "id": "ME-015",
+    "slug": "slow-braised-lamb-shoulder",
+    "name": "Slow-Braised Lamb Shoulder",
+    "category": "Main Courses",
+    "subcategory": "Meat",
+    "price_gbp": 29.5,
+    "serving_size": "One main course",
+    "short_description": "Fork-tender lamb, rosemary potato purée, glazed shallots and red wine jus.",
+    "description": "Lamb shoulder is braised slowly with rosemary, garlic and aromatic vegetables until it becomes tender enough to separate easily with a fork. The cooking liquor is reduced into a deep, savoury jus with gentle wine notes. A smooth potato purée provides a buttery base, while glazed shallots contribute sweetness and a little texture. Rosemary is used carefully so its pine-like aroma supports the lamb without dominating it.",
+    "ingredients": [
+      "lamb shoulder",
+      "potatoes",
+      "butter",
+      "milk",
+      "rosemary",
+      "garlic",
+      "carrots",
+      "shallots",
+      "red wine",
+      "lamb stock"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Sulphites",
+        "status": "verify wine specification"
+      },
+      {
+        "name": "Celery",
+        "status": "verify stock specification"
+      }
+    ],
+    "dietary_tags": [
+      "gluten-free by listed ingredients; verify stock"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Braising liquid can be prepared ahead, but portioning and reheating require controlled food-safety procedures.",
+    "image_key": "braised-lamb"
+  },
+  {
+    "id": "ME-016",
+    "slug": "crispy-skin-salmon",
+    "name": "Crispy-Skin Salmon, Pea Purée & Dill Oil",
+    "category": "Main Courses",
+    "subcategory": "Seafood",
+    "price_gbp": 25.5,
+    "serving_size": "One main course",
+    "short_description": "Pan-seared salmon, sweet pea purée, buttered greens and fragrant dill oil.",
+    "description": "A salmon fillet is seared skin-side down for a crisp finish, then cooked until the flesh is tender and moist. Sweet pea purée brings a fresh, garden-like sweetness, balanced by buttered greens and a vivid dill oil. A few pickled mustard seeds add tiny pops of acidity and texture. The plate is clean and seasonal, with the salmon’s natural richness supported by herbs rather than a heavy sauce.",
+    "ingredients": [
+      "salmon",
+      "peas",
+      "butter",
+      "spinach",
+      "dill",
+      "olive oil",
+      "mustard seeds",
+      "lemon"
+    ],
+    "allergens": [
+      {
+        "name": "Fish (salmon)",
+        "status": "contains"
+      },
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Mustard",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "gluten-free by listed ingredients"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "Dry the skin thoroughly before searing to improve crispness.",
+    "image_key": "crispy-skin-salmon"
+  },
+  {
+    "id": "ME-017",
+    "slug": "wild-boar-ragu-pappardelle",
+    "name": "Wild Boar Ragù Pappardelle",
+    "category": "Main Courses",
+    "subcategory": "Pasta",
+    "price_gbp": 24.5,
+    "serving_size": "One main course",
+    "short_description": "Wide ribbons of pasta, slow-cooked boar ragù, tomato, red wine and Parmesan.",
+    "description": "Wide pappardelle ribbons are coated in a slow-cooked ragù made with wild boar, tomato, onion, carrot, herbs and a splash of red wine. Long cooking develops a deep, rounded flavour and a sauce that clings to the pasta. Parmesan adds salty nuttiness, while parsley and a little orange zest lift the finish. This is a rustic, hearty dish inspired by northern Italian cooking.",
+    "ingredients": [
+      "pappardelle pasta",
+      "wild boar",
+      "tomatoes",
+      "onions",
+      "carrots",
+      "red wine",
+      "Parmesan",
+      "thyme",
+      "parsley",
+      "orange zest"
+    ],
+    "allergens": [
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      },
+      {
+        "name": "Egg",
+        "status": "verify pasta specification"
+      },
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Sulphites",
+        "status": "verify wine specification"
+      }
+    ],
+    "dietary_tags": [],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "The ragù should be thick enough to coat the pasta without pooling at the bottom of the bowl.",
+    "image_key": "boar-ragu-pappardelle"
+  },
+  {
+    "id": "ME-018",
+    "slug": "wild-mushroom-risotto",
+    "name": "Wild Mushroom Risotto, Aged Parmesan",
+    "category": "Main Courses",
+    "subcategory": "Vegetarian Mains",
+    "price_gbp": 22.0,
+    "serving_size": "One main course",
+    "short_description": "Creamy Arborio rice, sautéed woodland mushrooms, Parmesan and chive oil.",
+    "description": "Arborio rice is cooked gradually with hot stock until the grains are tender with a slight bite and the texture becomes naturally creamy. Sautéed woodland mushrooms add an earthy, savoury depth, while aged Parmesan enriches the finish. Chive oil brings a fresh green note and a few crisp mushroom slices provide texture. The risotto is served loose and glossy, not stiff or moulded into a mound.",
+    "ingredients": [
+      "arborio rice",
+      "wild mushrooms",
+      "vegetable stock",
+      "Parmesan",
+      "butter",
+      "shallots",
+      "garlic",
+      "chives"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Celery",
+        "status": "verify stock specification"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian if stock is verified vegetarian",
+      "gluten-free by listed ingredients; verify stock"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Finish to order with stock and butter for a flowing texture.",
+    "image_key": "mushroom-risotto"
+  },
+  {
+    "id": "ME-019",
+    "slug": "duck-breast-cherry-jus",
+    "name": "Seared Duck Breast, Cherry Jus & Parsnip",
+    "category": "Main Courses",
+    "subcategory": "Meat",
+    "price_gbp": 30.0,
+    "serving_size": "One main course",
+    "short_description": "Pink-centred duck breast, silky parsnip purée, seasonal greens and cherry jus.",
+    "description": "Duck breast is rendered slowly skin-side down before being finished to the kitchen’s food-safety and service standards. The skin is crisp, the meat rich, and a cherry jus brings a tart-sweet fruit note that works naturally with duck. Parsnip purée offers a mellow sweetness, while bitter greens keep the dish balanced. The finish is elegant and savoury, with the fruit sauce used as an accent rather than a sugary glaze.",
+    "ingredients": [
+      "duck breast",
+      "parsnips",
+      "butter",
+      "milk",
+      "cherries",
+      "duck stock",
+      "red wine vinegar",
+      "seasonal greens"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Sulphites",
+        "status": "verify vinegar and stock specification"
+      },
+      {
+        "name": "Celery",
+        "status": "verify stock specification"
+      }
+    ],
+    "dietary_tags": [
+      "gluten-free by listed ingredients; verify stock"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "The demo description avoids promising a particular internal temperature or doneness without a defined kitchen process.",
+    "image_key": "duck-breast"
+  },
+  {
+    "id": "ME-020",
+    "slug": "roasted-cauliflower-steak",
+    "name": "Roasted Cauliflower Steak, Romesco & Crispy Chickpeas",
+    "category": "Main Courses",
+    "subcategory": "Plant-Based Mains",
+    "price_gbp": 20.5,
+    "serving_size": "One main course",
+    "short_description": "Caramelised cauliflower, smoky pepper romesco, chickpeas and herb salad.",
+    "description": "A thick cauliflower slice is roasted until its edges caramelise and the centre becomes tender. It is paired with romesco, a smoky Spanish-inspired sauce made from roasted peppers, tomato and almonds, plus crisp chickpeas for protein and crunch. A bright herb salad and lemon dressing cut through the roasted flavours. The plate is colourful and substantial, designed as a plant-based main rather than a side dish.",
+    "ingredients": [
+      "cauliflower",
+      "chickpeas",
+      "red peppers",
+      "tomatoes",
+      "almonds",
+      "garlic",
+      "olive oil",
+      "lemon",
+      "parsley"
+    ],
+    "allergens": [
+      {
+        "name": "Tree nuts (almond)",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "vegan by listed ingredients; verify all supplier products",
+      "gluten-free by listed ingredients"
+    ],
+    "spice_level": "mild",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "For a vegan claim, verify every purchased sauce and ingredient and prevent cross-contact.",
+    "image_key": "cauliflower-steak"
+  },
+  {
+    "id": "ME-021",
+    "slug": "pork-belly-apple-puree",
+    "name": "Slow-Roasted Pork Belly, Apple Purée & Cider Jus",
+    "category": "Main Courses",
+    "subcategory": "Meat",
+    "price_gbp": 26.5,
+    "serving_size": "One main course",
+    "short_description": "Tender pork belly with crisp crackling, apple purée, braised cabbage and cider jus.",
+    "description": "Pork belly is slow-roasted to soften the meat, then finished to create a crisp, golden top. A smooth apple purée adds a fresh sweetness, while braised red cabbage brings gentle acidity and colour. The cider jus ties the plate together with savoury depth and a subtle orchard aroma. Pickled apple slices add a crisp finish that keeps the richness of the pork in balance.",
+    "ingredients": [
+      "pork belly",
+      "apples",
+      "red cabbage",
+      "cider",
+      "pork stock",
+      "butter",
+      "shallots",
+      "juniper",
+      "thyme"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains if butter is used; confirm recipe",
+        "notes": "Recipe specification should control the final declaration"
+      },
+      {
+        "name": "Sulphites",
+        "status": "verify cider and stock specification"
+      },
+      {
+        "name": "Celery",
+        "status": "verify stock specification"
+      }
+    ],
+    "dietary_tags": [],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Store a separate recipe version if the butter or stock formulation changes.",
+    "image_key": "pork-belly"
+  },
+  {
+    "id": "ME-022",
+    "slug": "lemon-thyme-roast-cod",
+    "name": "Lemon & Thyme Roast Cod",
+    "category": "Main Courses",
+    "subcategory": "Seafood",
+    "price_gbp": 27.0,
+    "serving_size": "One main course",
+    "short_description": "Flaky cod, crushed peas, buttered leeks, new potatoes and lemon-thyme oil.",
+    "description": "A thick cod loin is roasted gently until the flakes separate cleanly and remain moist. Crushed peas and mint provide a sweet, fresh base, while buttered leeks bring a soft allium flavour. New potatoes add substance without making the plate heavy. Lemon-thyme oil contributes citrus and herbal fragrance, giving the dish a clean finish suited to a seasonal modern-European menu.",
+    "ingredients": [
+      "cod",
+      "peas",
+      "mint",
+      "leeks",
+      "new potatoes",
+      "butter",
+      "lemon",
+      "thyme",
+      "olive oil"
+    ],
+    "allergens": [
+      {
+        "name": "Fish (cod)",
+        "status": "contains"
+      },
+      {
+        "name": "Milk",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "gluten-free by listed ingredients"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Check the cod carefully for bones and keep the garnish light.",
+    "image_key": "roast-cod"
+  },
+  {
+    "id": "ME-023",
+    "slug": "truffle-macaroni-cheese",
+    "name": "Truffle Macaroni & Three-Cheese Crust",
+    "category": "Main Courses",
+    "subcategory": "Comfort Classics",
+    "price_gbp": 19.5,
+    "serving_size": "One main course",
+    "short_description": "Macaroni in a mature-cheddar sauce with Gruyère, Parmesan and a crisp crumb.",
+    "description": "Macaroni is coated in a smooth sauce made from mature Cheddar, Gruyère and Parmesan, then baked beneath a golden, lightly crisp breadcrumb crust. A small amount of truffle oil adds an earthy aroma without masking the cheeses. Chives and black pepper finish the dish with freshness and gentle warmth. It is deliberately indulgent and can be paired with a green salad for contrast.",
+    "ingredients": [
+      "macaroni",
+      "mature Cheddar",
+      "Gruyère",
+      "Parmesan",
+      "milk",
+      "butter",
+      "wheat flour",
+      "breadcrumbs",
+      "truffle oil",
+      "chives"
+    ],
+    "allergens": [
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      },
+      {
+        "name": "Milk",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian if cheese rennet is verified"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "The demo menu can offer a side salad as an optional extra rather than changing the base dish.",
+    "image_key": "truffle-macaroni"
+  },
+  {
+    "id": "ME-024",
+    "slug": "herb-crusted-lamb-rump",
+    "name": "Herb-Crusted Lamb Rump",
+    "category": "Main Courses",
+    "subcategory": "Meat",
+    "price_gbp": 32.5,
+    "serving_size": "One main course",
+    "short_description": "Rosemary-herb crusted lamb, butter beans, grilled courgette and mint jus.",
+    "description": "Lamb rump is seared and finished with a fragrant crust of rosemary, parsley and breadcrumbs. Creamy butter beans provide a soft, comforting base, while grilled courgette brings a lightly smoky vegetable note. A mint jus gives the plate a fresh herbal lift without turning it sweet. The combination feels classic and hearty, with varied textures from the crust, beans and charred vegetables.",
+    "ingredients": [
+      "lamb rump",
+      "breadcrumbs",
+      "rosemary",
+      "parsley",
+      "butter beans",
+      "courgette",
+      "mint",
+      "lamb stock",
+      "olive oil"
+    ],
+    "allergens": [
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      },
+      {
+        "name": "Celery",
+        "status": "verify stock specification"
+      }
+    ],
+    "dietary_tags": [],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Keep the herb crust crisp and apply it near the end of cooking.",
+    "image_key": "herb-crusted-lamb"
+  },
+  {
+    "id": "ME-025",
+    "slug": "vanilla-creme-brulee",
+    "name": "Madagascan Vanilla Crème Brûlée",
+    "category": "Desserts",
+    "subcategory": "Classic Desserts",
+    "price_gbp": 9.0,
+    "serving_size": "One ramekin",
+    "short_description": "Vanilla custard beneath a thin, glassy caramelised sugar crust.",
+    "description": "A rich baked custard is infused with vanilla and chilled until delicately set. Just before serving, a thin layer of sugar is caramelised to form a crisp shell that cracks under the spoon. The contrast between cool, silky custard and warm, brittle caramel is the point of the dessert. A few seasonal berries may be added for acidity, but the vanilla remains the main flavour.",
+    "ingredients": [
+      "double cream",
+      "milk",
+      "egg yolks",
+      "sugar",
+      "vanilla"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Egg",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "Caramelise the sugar shortly before the dish leaves the kitchen.",
+    "image_key": "creme-brulee"
+  },
+  {
+    "id": "ME-026",
+    "slug": "dark-chocolate-delice",
+    "name": "Dark Chocolate Délice, Sea Salt & Crème Fraîche",
+    "category": "Desserts",
+    "subcategory": "Chocolate",
+    "price_gbp": 10.5,
+    "serving_size": "One plated dessert",
+    "short_description": "Dense dark chocolate crémeux, cocoa crumb, crème fraîche and sea salt.",
+    "description": "A smooth dark chocolate crémeux is set to a soft, truffle-like texture and served with a fine cocoa crumb for contrast. Crème fraîche brings a cool tang that cuts through the chocolate’s intensity, while a few crystals of sea salt make the cocoa flavour feel deeper and longer-lasting. The dessert is rich rather than oversized, intended for slow enjoyment after a multi-course meal.",
+    "ingredients": [
+      "dark chocolate",
+      "double cream",
+      "butter",
+      "eggs",
+      "cocoa powder",
+      "crème fraîche",
+      "sugar",
+      "sea salt"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Egg",
+        "status": "contains"
+      },
+      {
+        "name": "Soy",
+        "status": "verify chocolate specification"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "Use the chocolate supplier specification to confirm any soy or other allergen declaration.",
+    "image_key": "chocolate-delice"
+  },
+  {
+    "id": "ME-027",
+    "slug": "sticky-toffee-pudding",
+    "name": "Sticky Toffee Pudding & Butterscotch Sauce",
+    "category": "Desserts",
+    "subcategory": "Comfort Desserts",
+    "price_gbp": 9.5,
+    "serving_size": "One warm pudding",
+    "short_description": "Date sponge, warm butterscotch sauce and vanilla ice cream.",
+    "description": "A soft sponge made with dates is served warm and covered with a glossy butterscotch sauce. The dates give the pudding a deep caramel-like sweetness and a moist crumb, while vanilla ice cream melts into the sauce to create a creamy contrast. A small pinch of sea salt helps balance the sweetness. This is a comforting British classic with a generous sauce rather than a delicate, dry cake.",
+    "ingredients": [
+      "dates",
+      "wheat flour",
+      "butter",
+      "eggs",
+      "brown sugar",
+      "double cream",
+      "vanilla ice cream",
+      "bicarbonate of soda"
+    ],
+    "allergens": [
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      },
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Egg",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "Warm the pudding through evenly and add sauce immediately before service.",
+    "image_key": "sticky-toffee-pudding"
+  },
+  {
+    "id": "ME-028",
+    "slug": "lemon-posset-shortbread",
+    "name": "Lemon Posset, Raspberry & Shortbread",
+    "category": "Desserts",
+    "subcategory": "Fruit Desserts",
+    "price_gbp": 8.5,
+    "serving_size": "One glass or small bowl",
+    "short_description": "Silky lemon cream, raspberry compote and buttery shortbread crumb.",
+    "description": "A chilled lemon posset has a smooth, delicate set and a bright citrus flavour that feels refreshing after a rich main course. Raspberry compote adds tart fruit notes and a natural red colour, while shortbread crumb provides a buttery, sandy crunch. The layers are served in a glass or shallow bowl so the pale cream, ruby fruit and golden crumb remain visually distinct.",
+    "ingredients": [
+      "double cream",
+      "lemon",
+      "sugar",
+      "raspberries",
+      "wheat flour",
+      "butter"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Keep the shortbread crumb separate until service to preserve its texture.",
+    "image_key": "lemon-posset"
+  },
+  {
+    "id": "ME-029",
+    "slug": "pear-almond-tart",
+    "name": "Poached Pear & Almond Frangipane Tart",
+    "category": "Desserts",
+    "subcategory": "Patisserie",
+    "price_gbp": 10.0,
+    "serving_size": "One tart slice",
+    "short_description": "Buttery pastry, almond frangipane, poached pear and vanilla cream.",
+    "description": "A crisp pastry shell holds a soft almond frangipane filling, topped with pear poached in a lightly spiced syrup. The pear remains tender and fragrant, while the almond filling provides a moist, nutty centre. Served with a spoon of vanilla cream, the tart balances fruit freshness with buttery pastry. A little lemon zest keeps the flavour from becoming overly sweet.",
+    "ingredients": [
+      "wheat flour",
+      "butter",
+      "almonds",
+      "eggs",
+      "pears",
+      "sugar",
+      "vanilla cream",
+      "lemon"
+    ],
+    "allergens": [
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      },
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Tree nuts (almond)",
+        "status": "contains"
+      },
+      {
+        "name": "Egg",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Display the almond allergen prominently on both card and dish detail.",
+    "image_key": "pear-almond-tart"
+  },
+  {
+    "id": "ME-030",
+    "slug": "seasonal-cheese-board",
+    "name": "Seasonal British Cheese Board",
+    "category": "Desserts",
+    "subcategory": "Cheese & After-Dinner",
+    "price_gbp": 16.0,
+    "serving_size": "A board for one or two guests",
+    "short_description": "A rotating selection of British cheeses, chutney, grapes, oatcakes and fruit.",
+    "description": "A small selection of British cheeses is served at a cool room temperature to bring out their aroma and texture. The board may include a creamy soft cheese, a firm aged cheese and a blue cheese, paired with seasonal chutney, grapes, dried fruit and oatcakes. The flavour moves from buttery and mild to savoury and more assertive. The exact cheese selection should be updated in the live menu as stock changes.",
+    "ingredients": [
+      "assorted cheeses",
+      "chutney",
+      "grapes",
+      "dried fruit",
+      "oatcakes"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Gluten (oats; check oatcake specification)",
+        "status": "contains or verify supplier specification"
+      },
+      {
+        "name": "Sulphites",
+        "status": "verify chutney and dried fruit specification"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian only if cheese rennet is verified"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "This is a rotating item; store actual cheese names and supplier allergen sheets in the live system.",
+    "image_key": "british-cheese-board"
+  },
+  {
+    "id": "ME-031",
+    "slug": "elderflower-panna-cotta",
+    "name": "Elderflower Panna Cotta, Strawberries & Mint",
+    "category": "Desserts",
+    "subcategory": "Seasonal Desserts",
+    "price_gbp": 9.0,
+    "serving_size": "One plated dessert",
+    "short_description": "Delicate elderflower cream, macerated strawberries and fresh mint.",
+    "description": "A softly set panna cotta is infused with elderflower for a light floral aroma. Strawberries are gently macerated to draw out their juice, creating a bright red sauce that complements the cream. Fresh mint and a little lemon zest provide a clean finish. The dessert is intentionally delicate and not overly sweet, with a smooth texture and a clear contrast between floral cream and fresh fruit.",
+    "ingredients": [
+      "double cream",
+      "milk",
+      "sugar",
+      "elderflower cordial",
+      "gelatine",
+      "strawberries",
+      "mint",
+      "lemon"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Sulphites",
+        "status": "verify cordial specification"
+      }
+    ],
+    "dietary_tags": [
+      "not vegetarian if animal-derived gelatine is used"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "For a vegetarian version, use a verified suitable setting agent and update the ingredient record.",
+    "image_key": "elderflower-panna-cotta"
+  },
+  {
+    "id": "ME-032",
+    "slug": "espresso-martini-dessert",
+    "name": "Espresso & Chocolate Affogato",
+    "category": "Desserts",
+    "subcategory": "Coffee Desserts",
+    "price_gbp": 8.0,
+    "serving_size": "One dessert glass",
+    "short_description": "Vanilla ice cream, freshly pulled espresso and dark chocolate shavings.",
+    "description": "A scoop of vanilla ice cream is served with a freshly pulled shot of espresso poured at the table or just before serving. The hot coffee melts the edges of the ice cream into a bittersweet, creamy sauce. Dark chocolate shavings add a gentle snap and deeper cocoa flavour. It is a simple, theatrical finish for guests who prefer coffee-led desserts over very sweet pastries.",
+    "ingredients": [
+      "vanilla ice cream",
+      "espresso coffee",
+      "dark chocolate"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Egg",
+        "status": "verify ice cream specification"
+      },
+      {
+        "name": "Soy",
+        "status": "verify chocolate specification"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian if supplier ingredients are verified"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "This is a non-alcoholic dessert despite the espresso-martini-inspired naming being deliberately avoided here.",
+    "image_key": "espresso-affogato"
+  },
+  {
+    "id": "ME-033",
+    "slug": "house-lemonade",
+    "name": "House-Made Lemon & Thyme Lemonade",
+    "category": "Drinks",
+    "subcategory": "Soft Drinks",
+    "price_gbp": 5.0,
+    "serving_size": "330 ml glass",
+    "short_description": "Fresh lemon, thyme syrup, chilled sparkling water and a citrus garnish.",
+    "description": "Fresh lemon juice is balanced with a lightly sweet thyme syrup, then lengthened with chilled sparkling water. The thyme contributes a subtle herbal fragrance without making the drink taste savoury. Served over ice with a lemon wheel, it is crisp, refreshing and suitable as a bright non-alcoholic pairing for seafood, salads or rich mains.",
+    "ingredients": [
+      "lemon juice",
+      "sugar",
+      "thyme",
+      "sparkling water",
+      "ice"
+    ],
+    "allergens": [],
+    "dietary_tags": [
+      "vegan by listed ingredients"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "Prepare syrup in small batches and record preparation date in a real kitchen.",
+    "image_key": "lemon-thyme-lemonade"
+  },
+  {
+    "id": "ME-034",
+    "slug": "rhubarb-ginger-spritz",
+    "name": "Rhubarb & Ginger Spritz",
+    "category": "Drinks",
+    "subcategory": "Zero-Proof Drinks",
+    "price_gbp": 6.5,
+    "serving_size": "250 ml glass",
+    "short_description": "Rhubarb cordial, ginger, lime and sparkling water over ice.",
+    "description": "Tart rhubarb cordial gives the drink a delicate pink colour and a sharp, fruity opening. Fresh lime adds brightness, while ginger provides a warming note at the back of the palate. Sparkling water keeps the drink light and lively. It is designed as an alcohol-free aperitif with enough acidity and complexity to feel considered rather than like a simple soft drink.",
+    "ingredients": [
+      "rhubarb cordial",
+      "ginger syrup",
+      "lime",
+      "sparkling water",
+      "ice"
+    ],
+    "allergens": [
+      {
+        "name": "Sulphites",
+        "status": "verify cordial specification"
+      }
+    ],
+    "dietary_tags": [
+      "vegan if supplier products are verified"
+    ],
+    "spice_level": "mild",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "Label this explicitly as alcohol-free in the demo menu; verify all cordial ingredients.",
+    "image_key": "rhubarb-ginger-spritz"
+  },
+  {
+    "id": "ME-035",
+    "slug": "single-origin-filter-coffee",
+    "name": "Single-Origin Filter Coffee",
+    "category": "Drinks",
+    "subcategory": "Hot Drinks",
+    "price_gbp": 4.0,
+    "serving_size": "One cup",
+    "short_description": "Freshly brewed filter coffee with a balanced, chocolate-and-citrus profile.",
+    "description": "A rotating single-origin coffee is brewed to highlight a balanced profile, described in this demo as cocoa, toasted nuts and a gentle citrus finish. It is served black, with milk or a plant-based alternative available as an optional addition. The origin and tasting notes should be updated whenever the coffee supplier changes so the menu remains accurate.",
+    "ingredients": [
+      "ground coffee",
+      "water"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "only if dairy milk is added"
+      },
+      {
+        "name": "Soya",
+        "status": "only if soya milk is added; verify selected alternative"
+      }
+    ],
+    "dietary_tags": [
+      "vegan when served black or with a verified plant-based milk"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Keep optional milk additions separate in the order item options.",
+    "image_key": "filter-coffee"
+  },
+  {
+    "id": "ME-036",
+    "slug": "english-breakfast-tea",
+    "name": "Loose-Leaf English Breakfast Tea",
+    "category": "Drinks",
+    "subcategory": "Hot Drinks",
+    "price_gbp": 3.8,
+    "serving_size": "One pot",
+    "short_description": "A robust black tea served with lemon or milk on request.",
+    "description": "A full-bodied black tea is brewed in a small pot and served with a timer-free, straightforward presentation: a cup, strainer and optional lemon or milk. The flavour is malty and brisk, pairing well with desserts and after-dinner conversation. The base drink contains tea and water; any optional additions are recorded separately for accurate order and allergen handling.",
+    "ingredients": [
+      "black tea",
+      "water"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "only if dairy milk is added"
+      }
+    ],
+    "dietary_tags": [
+      "vegan when served without dairy milk"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Allow customers to choose milk, plant-based milk or lemon as separate options.",
+    "image_key": "english-breakfast-tea"
+  },
+  {
+    "id": "ME-037",
+    "slug": "seasonal-berry-fizz",
+    "name": "Seasonal Berry Fizz",
+    "category": "Drinks",
+    "subcategory": "Zero-Proof Drinks",
+    "price_gbp": 6.0,
+    "serving_size": "250 ml glass",
+    "short_description": "Crushed seasonal berries, lemon, mint and sparkling water.",
+    "description": "Seasonal berries are lightly crushed to release their juice, then mixed with lemon and sparkling water. Mint adds a cool, aromatic finish while the fruit provides natural tartness and colour. The drink is refreshing and not intended to be syrupy; sweetness can be adjusted as a selectable preference in the demo ordering flow.",
+    "ingredients": [
+      "seasonal berries",
+      "lemon",
+      "mint",
+      "sparkling water",
+      "optional simple syrup"
+    ],
+    "allergens": [],
+    "dietary_tags": [
+      "vegan by listed ingredients"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "If a berry syrup is used, store its full ingredient and allergen specification.",
+    "image_key": "berry-fizz"
+  },
+  {
+    "id": "ME-038",
+    "slug": "hot-chocolate",
+    "name": "Velvet Dark Hot Chocolate",
+    "category": "Drinks",
+    "subcategory": "Hot Drinks",
+    "price_gbp": 5.5,
+    "serving_size": "One cup",
+    "short_description": "Dark chocolate melted into steamed milk, finished with cocoa dust.",
+    "description": "Dark chocolate is melted into steamed milk to create a smooth, full-bodied drink with a deep cocoa aroma. The sweetness is restrained so the chocolate remains the focus. A light cocoa dusting adds fragrance on top. Guests can request a plant-based milk option, but the actual allergen information must follow the chosen milk and chocolate product specifications.",
+    "ingredients": [
+      "dark chocolate",
+      "milk",
+      "cocoa powder",
+      "optional plant-based milk"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains when made with dairy milk"
+      },
+      {
+        "name": "Soy",
+        "status": "verify chocolate and plant-based milk specification"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Treat substitutions as explicit order options rather than silently replacing ingredients.",
+    "image_key": "hot-chocolate"
+  },
+  {
+    "id": "ME-039",
+    "slug": "autumn-pumpkin-soup",
+    "name": "Autumn Pumpkin Soup, Sage Oil & Seeds",
+    "category": "Seasonal Specials",
+    "subcategory": "Seasonal Starters",
+    "price_gbp": 9.5,
+    "serving_size": "One bowl",
+    "short_description": "Roasted pumpkin soup, sage oil, toasted pumpkin seeds and sourdough.",
+    "description": "Pumpkin is roasted to concentrate its sweetness before being blended with vegetable stock into a smooth, warming soup. Sage oil adds a fragrant, savoury note, while toasted pumpkin seeds provide a crisp finish. A small swirl of cream may be used in the standard demo recipe, with sourdough served on the side. The flavour is autumnal and mellow, with black pepper and a touch of nutmeg for depth.",
+    "ingredients": [
+      "pumpkin",
+      "onion",
+      "vegetable stock",
+      "sage",
+      "pumpkin seeds",
+      "olive oil",
+      "double cream",
+      "nutmeg",
+      "sourdough bread"
+    ],
+    "allergens": [
+      {
+        "name": "Milk",
+        "status": "contains if cream is used"
+      },
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains with sourdough"
+      },
+      {
+        "name": "Celery",
+        "status": "verify stock specification"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian if stock is verified vegetarian"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": true,
+    "chef_notes": "For a dairy-free variation, create a separate recipe record and re-verify every ingredient.",
+    "image_key": "pumpkin-soup"
+  },
+  {
+    "id": "ME-040",
+    "slug": "winter-root-vegetable-crumble",
+    "name": "Winter Root Vegetable Crumble",
+    "category": "Seasonal Specials",
+    "subcategory": "Seasonal Mains",
+    "price_gbp": 21.0,
+    "serving_size": "One main course",
+    "short_description": "Roasted root vegetables, thyme gravy and a crisp savoury oat topping.",
+    "description": "Carrots, parsnips and celeriac are roasted until their edges caramelise, then placed in a shallow dish with a rich thyme gravy. A savoury crumble topping made with oats, flour and butter bakes to a crisp golden layer. The dish offers sweet roasted vegetables, herbal gravy and a crunchy top, making it a warming seasonal vegetarian main. A side of greens adds freshness and colour.",
+    "ingredients": [
+      "carrots",
+      "parsnips",
+      "celeriac",
+      "oats",
+      "wheat flour",
+      "butter",
+      "thyme",
+      "vegetable stock",
+      "onions"
+    ],
+    "allergens": [
+      {
+        "name": "Celery (celeriac)",
+        "status": "contains"
+      },
+      {
+        "name": "Gluten (wheat and possibly oats)",
+        "status": "contains or verify oat specification"
+      },
+      {
+        "name": "Milk",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian if stock is verified vegetarian"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "The allergen declaration should list celeriac clearly; do not hide it under generic root vegetables.",
+    "image_key": "root-vegetable-crumble"
+  },
+  {
+    "id": "ME-041",
+    "slug": "seared-venison-saddle",
+    "name": "Seared Venison Saddle, Blackberry Jus & Celeriac",
+    "category": "Seasonal Specials",
+    "subcategory": "Seasonal Mains",
+    "price_gbp": 34.0,
+    "serving_size": "One main course",
+    "short_description": "Lean venison, celeriac purée, roasted beetroot and blackberry jus.",
+    "description": "Venison saddle is seared to develop a savoury crust and paired with a smooth celeriac purée. Roasted beetroot adds earthy sweetness, while blackberry jus brings a tart, dark-fruit note that complements the lean meat. Juniper and thyme contribute woodland aromatics in the background. The plate is rich in flavour but balanced by the fruit acidity and the clean texture of the purée.",
+    "ingredients": [
+      "venison",
+      "celeriac",
+      "butter",
+      "milk",
+      "beetroot",
+      "blackberries",
+      "venison stock",
+      "juniper",
+      "thyme"
+    ],
+    "allergens": [
+      {
+        "name": "Celery (celeriac)",
+        "status": "contains"
+      },
+      {
+        "name": "Milk",
+        "status": "contains"
+      },
+      {
+        "name": "Sulphites",
+        "status": "verify jus ingredients"
+      }
+    ],
+    "dietary_tags": [
+      "gluten-free by listed ingredients; verify stock"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Seasonal availability and supplier traceability should be represented in the admin system.",
+    "image_key": "venison-saddle"
+  },
+  {
+    "id": "ME-042",
+    "slug": "brown-butter-gnocchi",
+    "name": "Potato Gnocchi, Brown Butter & Crispy Sage",
+    "category": "Seasonal Specials",
+    "subcategory": "Seasonal Mains",
+    "price_gbp": 21.5,
+    "serving_size": "One main course",
+    "short_description": "Soft potato gnocchi, nutty brown butter, sage, roasted squash and Parmesan.",
+    "description": "Pillowy potato gnocchi are pan-finished in brown butter until their edges pick up a light golden colour. Roasted squash adds sweetness, crisp sage contributes an aromatic crunch, and Parmesan brings a salty, savoury finish. A little lemon zest keeps the butter bright. The dish is simple in appearance but depends on a careful balance of tender gnocchi, nutty sauce and crisp garnish.",
+    "ingredients": [
+      "potatoes",
+      "wheat flour",
+      "egg",
+      "butter",
+      "sage",
+      "butternut squash",
+      "Parmesan",
+      "lemon"
+    ],
+    "allergens": [
+      {
+        "name": "Gluten (wheat)",
+        "status": "contains"
+      },
+      {
+        "name": "Egg",
+        "status": "contains"
+      },
+      {
+        "name": "Milk",
+        "status": "contains"
+      }
+    ],
+    "dietary_tags": [
+      "vegetarian if cheese rennet is verified"
+    ],
+    "spice_level": "none",
+    "availability": "available",
+    "featured": false,
+    "chef_notes": "Gnocchi can be made in advance, but should be finished in the pan close to service.",
+    "image_key": "brown-butter-gnocchi"
+  }
+]

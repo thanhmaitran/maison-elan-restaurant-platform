@@ -1,0 +1,28 @@
+[
+ {
+  "slug": "building-a-seasonal-plate",
+  "title": "Building a Seasonal Plate",
+  "category": "Behind the Menu",
+  "reading_time_minutes": 4,
+  "image": "journal/plated-seafood.jpg",
+  "excerpt": "A good seasonal dish begins with a clear idea: one ingredient in focus, supporting flavours in balance and enough texture to make every bite interesting.",
+  "body": [
+   "Every plate at Maison Élan starts with a single question: what is at its best right now? From there we choose one ingredient to lead and let everything else support it.",
+   "Balance comes next. A rich element wants acidity, a soft element wants crunch, and a sweet note is sharpened by something bitter or salty. We keep the plate uncluttered so each flavour can be tasted clearly.",
+   "Finally, texture. A scatter of toasted nuts, a crisp leaf or a spoonful of something silky is often what turns a good dish into a memorable one."
+  ]
+ },
+ {
+  "slug": "the-art-of-a-good-sauce",
+  "title": "The Art of a Good Sauce",
+  "category": "Kitchen Notes",
+  "reading_time_minutes": 5,
+  "image": "journal/table-spread.jpg",
+  "excerpt": "A sauce should connect the elements of a plate. Acidity, texture and depth matter as much as richness, and a little restraint often makes the flavour clearer.",
+  "body": [
+   "A sauce is the thread that ties a plate together. It should echo what is on the plate rather than compete with it.",
+   "We build ours slowly: good stock or cream as a base, a measured touch of acidity to lift it, and seasoning tasted at every stage.",
+   "Restraint matters. A spoonful that glosses the plate is usually better than a pool that drowns it."
+  ]
+ }
+]

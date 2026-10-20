@@ -1,0 +1,95 @@
+{
+  "home": {
+    "announcement": "Seasonal menus, thoughtful cooking and warm hospitality — discover Maison Élan.",
+    "hero_eyebrow": "MODERN EUROPEAN DINING",
+    "hero_title": "A Seasonal Table. A Lasting Impression.",
+    "hero_body": "Discover considered plates shaped by the season, classic technique and a relaxed sense of occasion. From a leisurely lunch to an intimate evening, Maison Élan brings thoughtful food and warm hospitality to the table.",
+    "primary_cta": "Reserve a Table",
+    "secondary_cta": "Explore the Menu",
+    "intro_title": "A little more than a meal",
+    "intro_body": "We believe the best dining experiences balance craft with ease. Our imagined kitchen brings together familiar European inspirations, carefully layered flavours and seasonal ingredients, served in a setting designed for conversation and connection.",
+    "seasonal_title": "From the season, with care",
+    "seasonal_body": "Our sample seasonal selection changes through the year, pairing comforting classics with lighter, produce-led plates. The dishes shown here are portfolio demo content; live availability would be controlled by the restaurant team.",
+    "experience_title": "Make room for an occasion",
+    "experience_body": "Mark a milestone, gather friends or plan a private dinner. Share a few details and our team will follow up with suitable options.",
+    "closing_cta": "Your table is waiting"
+  },
+  "story": {
+    "title": "A modern house for good food",
+    "lead": "Maison Élan is a fictional restaurant concept built around seasonal cooking, thoughtful detail and a welcoming approach to modern European dining.",
+    "sections": [
+      {
+        "heading": "Rooted in the season",
+        "body": "Our imagined menus follow the character of the season: bright herbs and tender vegetables in warmer months, roasted roots and deeper sauces when the weather turns. Seasonal specials are clearly marked and can be updated without rebuilding the website."
+      },
+      {
+        "heading": "Classic technique, contemporary spirit",
+        "body": "From a carefully seared fish fillet to a slow-cooked ragù, the menu draws on European cooking traditions while keeping the presentation clean and the flavours balanced."
+      },
+      {
+        "heading": "Hospitality without the fuss",
+        "body": "A special meal should feel considered, not complicated. The website is designed to make it easy to understand the menu, check availability, manage a booking and contact the team."
+      }
+    ]
+  },
+  "private_dining": {
+    "title": "Private Dining & Gatherings",
+    "lead": "For intimate celebrations, family occasions and small team dinners, tell us what you have in mind. Our demo team will review the enquiry and respond with suitable options.",
+    "form_fields": [
+      "name",
+      "email",
+      "phone_optional",
+      "preferred_date",
+      "flexible_date",
+      "guest_count",
+      "occasion",
+      "budget_per_person_optional",
+      "dietary_requirements",
+      "message"
+    ],
+    "workflow": "Enquiry only. Submitting this form records a request; it does not confirm a private event or reserve a room."
+  },
+  "contact": {
+    "title": "We would love to hear from you",
+    "body": "For booking questions, menu enquiries or private dining requests, use the contact form. This portfolio demo uses placeholder contact details and does not represent a real trading restaurant.",
+    "form_fields": [
+      "name",
+      "email",
+      "subject",
+      "message"
+    ]
+  },
+  "journal_posts": [
+    {
+      "slug": "building-a-seasonal-plate",
+      "title": "Building a Seasonal Plate",
+      "excerpt": "A good seasonal dish begins with a clear idea: one ingredient in focus, supporting flavours in balance and enough texture to make every bite interesting.",
+      "category": "Behind the Menu",
+      "reading_time_minutes": 4,
+      "status": "published"
+    },
+    {
+      "slug": "the-art-of-a-good-sauce",
+      "title": "The Art of a Good Sauce",
+      "excerpt": "A sauce should connect the elements of a plate. Acidity, texture and depth matter as much as richness, and a little restraint often makes the flavour clearer.",
+      "category": "Kitchen Notes",
+      "reading_time_minutes": 5,
+      "status": "published"
+    },
+    {
+      "slug": "a-guide-to-your-first-fine-dining-visit",
+      "title": "A Relaxed Guide to a Fine-Dining Visit",
+      "excerpt": "There is no secret code to enjoying a considered meal. Ask questions, share dietary needs early and choose the dishes that genuinely appeal to you.",
+      "category": "The Guest Experience",
+      "reading_time_minutes": 3,
+      "status": "draft"
+    }
+  ],
+  "policies": {
+    "reservation": "Demo policy: reservations are confirmed only after the server has checked availability and returned a confirmed status. Please arrive near the reserved time and contact the restaurant if plans change. The live restaurant must replace this text with its actual policy.",
+    "cancellation": "Demo policy: customers may request cancellation through their account. Whether a booking is cancelled immediately or requires staff approval is determined by the implemented business rules. Replace this sample policy before production.",
+    "ordering": "Demo policy: menu prices and availability are rechecked by the server before an order is accepted. An order is not confirmed merely because the customer clicked the button; confirmation follows a successful backend response.",
+    "allergens": "Demo notice: ingredient and allergen records are illustrative software data and are not suitable for real food service. In a real restaurant, declarations must be checked against exact recipes, supplier specifications, kitchen processes and cross-contact controls. Guests with allergies should contact the restaurant directly.",
+    "privacy": "Demo privacy notice: this prototype may use seeded fictional accounts and test data. A production service must publish a reviewed privacy notice, define retention periods, secure personal data and provide a way to exercise applicable privacy rights."
+  }
+}

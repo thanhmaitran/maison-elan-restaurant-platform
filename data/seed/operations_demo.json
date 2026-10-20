@@ -1,0 +1,557 @@
+{
+  "customers": [
+    {
+      "id": "CUS-001",
+      "name": "Olivia Bennett",
+      "email": "olivia.bennett@example.com",
+      "phone": "+44 7700 900101",
+      "role": "customer",
+      "status": "active",
+      "demo_only": true
+    },
+    {
+      "id": "CUS-002",
+      "name": "James Carter",
+      "email": "james.carter@example.com",
+      "phone": "+44 7700 900102",
+      "role": "customer",
+      "status": "active",
+      "demo_only": true
+    },
+    {
+      "id": "CUS-003",
+      "name": "Amelia Hughes",
+      "email": "amelia.hughes@example.com",
+      "phone": "+44 7700 900103",
+      "role": "customer",
+      "status": "active",
+      "demo_only": true
+    },
+    {
+      "id": "CUS-004",
+      "name": "Noah Williams",
+      "email": "noah.williams@example.com",
+      "phone": "+44 7700 900104",
+      "role": "customer",
+      "status": "active",
+      "demo_only": true
+    },
+    {
+      "id": "CUS-005",
+      "name": "Isla Morgan",
+      "email": "isla.morgan@example.com",
+      "phone": "+44 7700 900105",
+      "role": "customer",
+      "status": "active",
+      "demo_only": true
+    },
+    {
+      "id": "CUS-006",
+      "name": "Staff Demo",
+      "email": "staff@example.com",
+      "phone": null,
+      "role": "staff",
+      "status": "active",
+      "demo_only": true
+    },
+    {
+      "id": "CUS-007",
+      "name": "Admin Demo",
+      "email": "admin@example.com",
+      "phone": null,
+      "role": "admin",
+      "status": "active",
+      "demo_only": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-1001",
+      "order_number": "ME-2026-1001",
+      "customer_id": "CUS-001",
+      "order_type": "collection",
+      "status": "completed",
+      "payment_status": "paid_demo",
+      "currency": "GBP",
+      "items": [
+        {
+          "menu_item_id": "ME-003",
+          "name_snapshot": "Wild Mushroom & Parmesan Arancini",
+          "unit_price": 10.5,
+          "quantity": 1,
+          "line_total": 10.5
+        },
+        {
+          "menu_item_id": "ME-012",
+          "name_snapshot": "Dry-Aged Beef Fillet, Peppercorn Sauce",
+          "unit_price": 36.0,
+          "quantity": 1,
+          "line_total": 36.0
+        },
+        {
+          "menu_item_id": "ME-025",
+          "name_snapshot": "Madagascan Vanilla Crème Brûlée",
+          "unit_price": 9.0,
+          "quantity": 1,
+          "line_total": 9.0
+        },
+        {
+          "menu_item_id": "ME-033",
+          "name_snapshot": "House-Made Lemon & Thyme Lemonade",
+          "unit_price": 5.0,
+          "quantity": 2,
+          "line_total": 10.0
+        }
+      ],
+      "subtotal": 65.5,
+      "fees": 0.0,
+      "total": 65.5,
+      "created_at": "2026-10-10T18:24:00Z",
+      "demo_only": true
+    },
+    {
+      "id": "ORD-1002",
+      "order_number": "ME-2026-1002",
+      "customer_id": "CUS-002",
+      "order_type": "collection",
+      "status": "ready_for_collection",
+      "payment_status": "paid_demo",
+      "currency": "GBP",
+      "items": [
+        {
+          "menu_item_id": "ME-018",
+          "name_snapshot": "Wild Mushroom Risotto, Aged Parmesan",
+          "unit_price": 22.0,
+          "quantity": 2,
+          "line_total": 44.0
+        },
+        {
+          "menu_item_id": "ME-028",
+          "name_snapshot": "Lemon Posset, Raspberry & Shortbread",
+          "unit_price": 8.5,
+          "quantity": 2,
+          "line_total": 17.0
+        }
+      ],
+      "subtotal": 61.0,
+      "fees": 0.0,
+      "total": 61.0,
+      "created_at": "2026-10-15T15:40:00Z",
+      "demo_only": true
+    },
+    {
+      "id": "ORD-1003",
+      "order_number": "ME-2026-1003",
+      "customer_id": "CUS-003",
+      "order_type": "collection",
+      "status": "preparing",
+      "payment_status": "pending_demo",
+      "currency": "GBP",
+      "items": [
+        {
+          "menu_item_id": "ME-016",
+          "name_snapshot": "Crispy-Skin Salmon, Pea Purée & Dill Oil",
+          "unit_price": 25.5,
+          "quantity": 1,
+          "line_total": 25.5
+        },
+        {
+          "menu_item_id": "ME-027",
+          "name_snapshot": "Sticky Toffee Pudding & Butterscotch Sauce",
+          "unit_price": 9.5,
+          "quantity": 1,
+          "line_total": 9.5
+        }
+      ],
+      "subtotal": 35.0,
+      "fees": 0.0,
+      "total": 35.0,
+      "created_at": "2026-10-15T16:02:00Z",
+      "demo_only": true
+    },
+    {
+      "id": "ORD-1004",
+      "order_number": "ME-2026-1004",
+      "customer_id": "CUS-004",
+      "order_type": "collection",
+      "status": "cancelled",
+      "payment_status": "not_charged_demo",
+      "currency": "GBP",
+      "items": [
+        {
+          "menu_item_id": "ME-014",
+          "name_snapshot": "Wild Mushroom Wellington",
+          "unit_price": 23.5,
+          "quantity": 1,
+          "line_total": 23.5
+        }
+      ],
+      "subtotal": 23.5,
+      "fees": 0.0,
+      "total": 23.5,
+      "created_at": "2026-10-12T11:18:00Z",
+      "cancellation_reason": "Customer requested cancellation before preparation.",
+      "demo_only": true
+    },
+    {
+      "id": "ORD-1005",
+      "order_number": "ME-2026-1005",
+      "customer_id": "CUS-005",
+      "order_type": "collection",
+      "status": "pending_confirmation",
+      "payment_status": "pending_demo",
+      "currency": "GBP",
+      "items": [
+        {
+          "menu_item_id": "ME-039",
+          "name_snapshot": "Autumn Pumpkin Soup, Sage Oil & Seeds",
+          "unit_price": 9.5,
+          "quantity": 2,
+          "line_total": 19.0
+        },
+        {
+          "menu_item_id": "ME-040",
+          "name_snapshot": "Winter Root Vegetable Crumble",
+          "unit_price": 21.0,
+          "quantity": 1,
+          "line_total": 21.0
+        }
+      ],
+      "subtotal": 40.0,
+      "fees": 0.0,
+      "total": 40.0,
+      "created_at": "2026-10-15T16:20:00Z",
+      "demo_only": true
+    }
+  ],
+  "reservations": [
+    {
+      "id": "RES-2001",
+      "customer_id": "CUS-001",
+      "guest_name": "Olivia Bennett",
+      "guest_email": "olivia.bennett@example.com",
+      "party_size": 2,
+      "date": "2026-10-16",
+      "time": "19:00",
+      "duration_minutes": 105,
+      "table_label": "T-02",
+      "status": "confirmed",
+      "occasion": "Anniversary",
+      "notes": "Window-side seating requested; request is not guaranteed.",
+      "created_at": "2026-10-12T09:00:00Z",
+      "demo_only": true
+    },
+    {
+      "id": "RES-2002",
+      "customer_id": "CUS-002",
+      "guest_name": "James Carter",
+      "guest_email": "james.carter@example.com",
+      "party_size": 4,
+      "date": "2026-10-16",
+      "time": "19:30",
+      "duration_minutes": 120,
+      "table_label": "T-05",
+      "status": "confirmed",
+      "occasion": "Family dinner",
+      "notes": "",
+      "created_at": "2026-10-13T12:15:00Z",
+      "demo_only": true
+    },
+    {
+      "id": "RES-2003",
+      "customer_id": "CUS-003",
+      "guest_name": "Amelia Hughes",
+      "guest_email": "amelia.hughes@example.com",
+      "party_size": 2,
+      "date": "2026-10-17",
+      "time": "13:00",
+      "duration_minutes": 90,
+      "table_label": "T-01",
+      "status": "pending_confirmation",
+      "occasion": "Birthday",
+      "notes": "Would like a small birthday message on the dessert if available.",
+      "created_at": "2026-10-15T10:35:00Z",
+      "demo_only": true
+    },
+    {
+      "id": "RES-2004",
+      "customer_id": "CUS-004",
+      "guest_name": "Noah Williams",
+      "guest_email": "noah.williams@example.com",
+      "party_size": 6,
+      "date": "2026-10-17",
+      "time": "19:00",
+      "duration_minutes": 135,
+      "table_label": null,
+      "status": "waitlist",
+      "occasion": "Friends gathering",
+      "notes": "No table allocated; do not treat as confirmed.",
+      "created_at": "2026-10-15T11:10:00Z",
+      "demo_only": true
+    },
+    {
+      "id": "RES-2005",
+      "customer_id": "CUS-005",
+      "guest_name": "Isla Morgan",
+      "guest_email": "isla.morgan@example.com",
+      "party_size": 2,
+      "date": "2026-10-18",
+      "time": "18:30",
+      "duration_minutes": 105,
+      "table_label": "T-03",
+      "status": "cancelled",
+      "occasion": "Dinner",
+      "notes": "Cancelled by customer in demo flow.",
+      "created_at": "2026-10-14T14:00:00Z",
+      "demo_only": true
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-3001",
+      "customer_id": "CUS-001",
+      "menu_item_id": "ME-003",
+      "rating": 5,
+      "title": "Crisp outside, creamy centre",
+      "comment": "The arancini have a lovely contrast in texture. The mushroom flavour comes through clearly, and the truffle aioli feels like a finishing touch rather than the whole story. I would order these again.",
+      "status": "published",
+      "verified_purchase": true,
+      "created_at": "2026-10-11T12:00:00Z",
+      "demo_only": true
+    },
+    {
+      "id": "REV-3002",
+      "customer_id": "CUS-002",
+      "menu_item_id": "ME-025",
+      "rating": 4,
+      "title": "A classic done well",
+      "comment": "The custard is smooth and the caramel top gives a satisfying crack. I would personally enjoy a few more berries on the side, but the vanilla flavour is excellent.",
+      "status": "published",
+      "verified_purchase": true,
+      "created_at": "2026-10-12T17:20:00Z",
+      "demo_only": true
+    },
+    {
+      "id": "REV-3003",
+      "customer_id": "CUS-003",
+      "menu_item_id": "ME-016",
+      "rating": 3,
+      "title": "Good flavours, could be warmer",
+      "comment": "The salmon and dill oil work nicely together, and the pea purée tastes fresh. In this sample review, the plate arrived cooler than I expected, so the kitchen should check the timing between cooking and serving.",
+      "status": "published",
+      "verified_purchase": true,
+      "created_at": "2026-10-13T19:40:00Z",
+      "demo_only": true
+    },
+    {
+      "id": "REV-3004",
+      "customer_id": "CUS-004",
+      "menu_item_id": "ME-014",
+      "rating": 5,
+      "title": "A satisfying vegetarian main",
+      "comment": "The pastry is flaky and the mushroom filling is deep and savoury. It feels like a proper centrepiece rather than a vegetarian afterthought. The seasonal greens make the plate feel balanced.",
+      "status": "published",
+      "verified_purchase": true,
+      "created_at": "2026-10-14T20:15:00Z",
+      "demo_only": true
+    },
+    {
+      "id": "REV-3005",
+      "customer_id": "CUS-005",
+      "menu_item_id": "ME-028",
+      "rating": 2,
+      "title": "Too sweet for my taste",
+      "comment": "The lemon flavour is refreshing, but I found the shortbread and cream combination a little sweet overall. I would prefer a stronger raspberry note or a slightly sharper finish.",
+      "status": "pending_moderation",
+      "verified_purchase": false,
+      "created_at": "2026-10-15T13:00:00Z",
+      "demo_only": true
+    },
+    {
+      "id": "REV-3006",
+      "customer_id": "CUS-001",
+      "menu_item_id": "ME-012",
+      "rating": 4,
+      "title": "Lovely steak, rich sauce",
+      "comment": "The beef flavour is the highlight and the potatoes add a nice crisp edge. The peppercorn sauce is rich, so I would pair it with the greens rather than adding another creamy side.",
+      "status": "published",
+      "verified_purchase": true,
+      "created_at": "2026-10-15T14:30:00Z",
+      "demo_only": true
+    }
+  ],
+  "private_dining_enquiries": [
+    {
+      "id": "PDE-4001",
+      "name": "Charlotte Reed",
+      "email": "charlotte.reed@example.com",
+      "phone": null,
+      "preferred_date": "2026-11-07",
+      "flexible_date": true,
+      "guest_count": 12,
+      "occasion": "Milestone birthday",
+      "budget_per_person_gbp": 55,
+      "dietary_requirements": "Two vegetarian guests; details to be confirmed directly.",
+      "message": "Looking for a relaxed private dinner with a seasonal three-course menu. Please share possible formats and availability.",
+      "status": "new",
+      "assigned_to": null,
+      "created_at": "2026-10-14T09:20:00Z",
+      "demo_only": true
+    },
+    {
+      "id": "PDE-4002",
+      "name": "Oliver Price",
+      "email": "oliver.price@example.com",
+      "phone": "+44 7700 900201",
+      "preferred_date": "2026-12-12",
+      "flexible_date": true,
+      "guest_count": 18,
+      "occasion": "Small company dinner",
+      "budget_per_person_gbp": 70,
+      "dietary_requirements": "Please provide an ingredient and allergen overview once menu options are proposed.",
+      "message": "We are exploring an end-of-year dinner and would like to know whether a set menu is possible.",
+      "status": "contacted",
+      "assigned_to": "CUS-006",
+      "created_at": "2026-10-13T15:45:00Z",
+      "demo_only": true
+    }
+  ],
+  "chat_sessions": [
+    {
+      "id": "CHAT-5001",
+      "customer_id": "CUS-001",
+      "started_at": "2026-10-15T14:00:00Z",
+      "status": "closed",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What vegetarian mains are on the demo menu?"
+        },
+        {
+          "role": "assistant",
+          "content": "The sample menu includes Wild Mushroom Wellington (£23.50), Wild Mushroom Risotto (£22.00), Roasted Cauliflower Steak (£20.50), and Butternut Squash & Sage Ravioli (£13.50 as a starter). These are fictional demo listings; dietary suitability must be verified against the final recipe and preparation process."
+        }
+      ],
+      "demo_only": true
+    },
+    {
+      "id": "CHAT-5002",
+      "customer_id": "CUS-002",
+      "started_at": "2026-10-15T14:35:00Z",
+      "status": "closed",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Can you guarantee the cauliflower dish is safe for a nut allergy?"
+        },
+        {
+          "role": "assistant",
+          "content": "I can’t guarantee that from the demo data. The listed romesco contains almonds, and the dataset is illustrative rather than a verified kitchen allergen record. Please do not rely on this demo for allergy decisions; a real restaurant must check its current recipe, suppliers and cross-contact controls."
+        }
+      ],
+      "demo_only": true
+    }
+  ],
+  "demo_tables": [
+    {
+      "table_label": "T-01",
+      "nominal_capacity": 2,
+      "area": "Main Dining Room",
+      "active": true
+    },
+    {
+      "table_label": "T-02",
+      "nominal_capacity": 2,
+      "area": "Window Side",
+      "active": true
+    },
+    {
+      "table_label": "T-03",
+      "nominal_capacity": 2,
+      "area": "Main Dining Room",
+      "active": true
+    },
+    {
+      "table_label": "T-04",
+      "nominal_capacity": 4,
+      "area": "Main Dining Room",
+      "active": true
+    },
+    {
+      "table_label": "T-05",
+      "nominal_capacity": 4,
+      "area": "Window Side",
+      "active": true
+    },
+    {
+      "table_label": "T-06",
+      "nominal_capacity": 6,
+      "area": "Back Dining Area",
+      "active": true
+    },
+    {
+      "table_label": "T-07",
+      "nominal_capacity": 6,
+      "area": "Back Dining Area",
+      "active": true
+    },
+    {
+      "table_label": "T-08",
+      "nominal_capacity": 8,
+      "area": "Private Dining Demo",
+      "active": true
+    }
+  ],
+  "reservation_rules": {
+    "standard_duration_minutes": 105,
+    "large_party_threshold": 6,
+    "large_party_duration_minutes": 135,
+    "slot_interval_minutes": 30,
+    "advance_booking_days": 60,
+    "same_day_cutoff_hours": 2,
+    "note": "These are demo business rules only. Availability must be calculated server-side and protected against overlapping bookings; this seed file is not a live reservation engine."
+  },
+  "order_statuses": [
+    "pending_confirmation",
+    "confirmed",
+    "preparing",
+    "ready_for_collection",
+    "completed",
+    "cancelled",
+    "failed"
+  ],
+  "reservation_statuses": [
+    "pending_confirmation",
+    "confirmed",
+    "waitlist",
+    "seated",
+    "completed",
+    "cancelled",
+    "no_show"
+  ],
+  "review_statuses": [
+    "pending_moderation",
+    "published",
+    "rejected",
+    "flagged"
+  ],
+  "dashboard_sample_metrics": {
+    "label": "Illustrative seed-data metrics, not live business performance",
+    "orders_total": 5,
+    "orders_completed": 1,
+    "orders_in_progress": 2,
+    "reservations_total": 5,
+    "reservations_confirmed": 2,
+    "reviews_published": 5,
+    "private_dining_open_enquiries": 1
+  },
+  "important_rules": [
+    "All records in this file are fictional test data.",
+    "Do not use these example customers, email addresses, phone numbers, reviews or bookings as real customer data.",
+    "Never use seeded order totals as authoritative prices: the backend must calculate totals from current menu records and validated options.",
+    "Order items preserve name and unit-price snapshots so historic orders do not change when menu items are edited.",
+    "Only display Verified Purchase when a qualifying completed order is actually checked by the backend.",
+    "Never treat a waitlist or pending reservation as confirmed.",
+    "Do not use these illustrative allergen records for real food service."
+  ]
+}

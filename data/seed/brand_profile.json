@@ -1,0 +1,117 @@
+{
+  "brand_name": "Maison Élan",
+  "tagline": "A Seasonal Table. A Lasting Impression.",
+  "brand_type": "Fictional premium modern-European restaurant concept for a software portfolio demonstration",
+  "market_position": "Contemporary fine dining with warm hospitality, seasonal produce and a carefully curated menu.",
+  "brand_story": "Maison Élan was imagined as a modern European dining room where classic technique meets the changing rhythm of the seasons. The name combines a sense of home with élan: energy, elegance and confident creativity. Its fictional kitchen celebrates thoughtful sourcing, balanced flavours and dishes that feel special without becoming formal or intimidating. The digital experience is designed to carry that same philosophy from browsing the menu to booking a table and receiving attentive service.",
+  "mission": "To make considered seasonal dining feel welcoming, transparent and memorable.",
+  "vision": "A hospitality experience where thoughtful cooking, clear information and effortless digital service work together.",
+  "values": [
+    {
+      "name": "Seasonality",
+      "description": "Menus evolve around seasonal ingredients and clearly communicate when a dish is a limited special."
+    },
+    {
+      "name": "Craft",
+      "description": "Classic techniques, careful preparation and balanced flavour are valued over unnecessary complexity."
+    },
+    {
+      "name": "Warm hospitality",
+      "description": "Service should feel attentive, calm and personal rather than stiff or overly formal."
+    },
+    {
+      "name": "Transparency",
+      "description": "Prices, ingredients, dietary notes, availability and policies should be easy to understand."
+    },
+    {
+      "name": "Responsible service",
+      "description": "The restaurant should make only verified claims about allergens, sourcing, sustainability and dietary suitability."
+    }
+  ],
+  "visual_identity": {
+    "palette": {
+      "ivory": "#F7F3EB",
+      "warm_white": "#FFFCF7",
+      "forest_green": "#193D32",
+      "deep_charcoal": "#242521",
+      "champagne_gold": "#B69A63",
+      "sage": "#DDE4D8",
+      "muted_taupe": "#877E70",
+      "burgundy_error": "#8C3439"
+    },
+    "heading_fonts": [
+      "Cormorant Garamond",
+      "Playfair Display"
+    ],
+    "body_fonts": [
+      "DM Sans",
+      "Inter"
+    ],
+    "photography_direction": "Natural window light, tactile ceramics, seasonal produce, rich but realistic food colour, uncluttered styling and warm restaurant interiors. Avoid misleading stock photos that imply a real location.",
+    "voice": "Warm, refined, descriptive, confident and helpful. Avoid exaggerated luxury clichés and unsupported claims."
+  },
+  "demo_notice": "Maison Élan is a fictional concept created for a portfolio project. The address, phone, service hours, menu, prices, customer profiles, reviews, bookings and order history in this dataset are invented examples, not details of a real restaurant.",
+  "location": {
+    "display_address": "Demo location — not a real trading address",
+    "city": "Lincoln",
+    "country": "United Kingdom",
+    "postcode": "DEMO ONLY",
+    "latitude": null,
+    "longitude": null
+  },
+  "contact": {
+    "email": "hello@example.com",
+    "phone": "+44 0000 000000",
+    "note": "Placeholder contact details only. Replace before any public production use."
+  },
+  "opening_hours": [
+    {
+      "day": "Monday",
+      "status": "closed",
+      "open": null,
+      "close": null
+    },
+    {
+      "day": "Tuesday",
+      "status": "open",
+      "open": "17:30",
+      "close": "21:30"
+    },
+    {
+      "day": "Wednesday",
+      "status": "open",
+      "open": "17:30",
+      "close": "21:30"
+    },
+    {
+      "day": "Thursday",
+      "status": "open",
+      "open": "17:30",
+      "close": "21:30"
+    },
+    {
+      "day": "Friday",
+      "status": "open",
+      "open": "17:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Saturday",
+      "status": "open",
+      "open": "12:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Sunday",
+      "status": "open",
+      "open": "12:00",
+      "close": "20:30"
+    }
+  ],
+  "service_notes": [
+    "Opening hours are illustrative and configurable in the admin dashboard.",
+    "All prices are sample GBP values for software demonstration.",
+    "Menu availability can change; the backend must be the source of truth.",
+    "No real delivery service is claimed. The MVP can support collection/pick-up orders first, with delivery added only when implemented."
+  ]
+}

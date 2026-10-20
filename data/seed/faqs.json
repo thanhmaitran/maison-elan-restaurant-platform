@@ -1,0 +1,98 @@
+[
+  {
+    "id": "FAQ-001",
+    "category": "Menu",
+    "question": "Do you offer vegetarian dishes?",
+    "answer": "The demo menu includes vegetarian-labelled options such as Wild Mushroom Risotto, Butternut Squash & Sage Ravioli and Roasted Cauliflower Steak. Dietary tags are illustrative and must be verified against the final recipe and preparation process before real service.",
+    "source": "menu_items dataset; dietary labels are demo-only",
+    "last_reviewed": "2026-10-15"
+  },
+  {
+    "id": "FAQ-002",
+    "category": "Menu",
+    "question": "Can I see ingredients before ordering?",
+    "answer": "Yes. Open a dish detail page to view its listed ingredients, dietary tags and allergen declarations. In this demo, those records are examples rather than verified kitchen declarations.",
+    "source": "menu item records and demo allergen policy",
+    "last_reviewed": "2026-10-15"
+  },
+  {
+    "id": "FAQ-003",
+    "category": "Allergens",
+    "question": "Can you guarantee a dish is safe for my allergy?",
+    "answer": "The demo cannot guarantee that any dish is safe for a particular allergy. Its ingredient and allergen data is illustrative only. A real restaurant should verify the exact recipe, supplier information and cross-contact procedures, and staff should respond to allergy questions using approved information rather than guessing.",
+    "source": "demo allergen policy",
+    "last_reviewed": "2026-10-15"
+  },
+  {
+    "id": "FAQ-004",
+    "category": "Reservations",
+    "question": "When is my table reservation confirmed?",
+    "answer": "A reservation is confirmed only after the booking service checks availability, saves the booking and returns a confirmed status. A form submission or chatbot message alone is not confirmation.",
+    "source": "reservation workflow specification",
+    "last_reviewed": "2026-10-15"
+  },
+  {
+    "id": "FAQ-005",
+    "category": "Reservations",
+    "question": "Can I change my reservation?",
+    "answer": "In the planned customer account area, a guest can view a booking and request a change or cancellation. The system must recheck availability before confirming a new time.",
+    "source": "reservation workflow specification",
+    "last_reviewed": "2026-10-15"
+  },
+  {
+    "id": "FAQ-006",
+    "category": "Ordering",
+    "question": "Can I order food online?",
+    "answer": "The portfolio concept is designed to support online ordering. Only options enabled in the running demo should be offered. The initial version may support collection only; delivery must not be promised unless its address, fees and fulfilment workflow have been implemented.",
+    "source": "ordering scope specification",
+    "last_reviewed": "2026-10-15"
+  },
+  {
+    "id": "FAQ-007",
+    "category": "Ordering",
+    "question": "How do I know my order was placed?",
+    "answer": "The order is considered placed only when the backend has validated the items and prices, saved the order and returned a successful confirmation with an order number. If the request fails, the interface should show an error and allow the guest to retry safely.",
+    "source": "order workflow specification",
+    "last_reviewed": "2026-10-15"
+  },
+  {
+    "id": "FAQ-008",
+    "category": "Menu",
+    "question": "Are the prices real?",
+    "answer": "No. All prices in this Maison Élan dataset are fictional sample GBP prices created for a software portfolio demonstration.",
+    "source": "brand profile demo notice",
+    "last_reviewed": "2026-10-15"
+  },
+  {
+    "id": "FAQ-009",
+    "category": "Private Dining",
+    "question": "Can I book a private dining event online?",
+    "answer": "The demo supports submitting a private-dining enquiry. An enquiry is not a confirmed event booking; the team would need to review the date, group size and requirements before confirming.",
+    "source": "private dining content",
+    "last_reviewed": "2026-10-15"
+  },
+  {
+    "id": "FAQ-010",
+    "category": "Location",
+    "question": "Where is Maison Élan located?",
+    "answer": "Maison Élan is a fictional portfolio concept. Its location and contact details are placeholders, not a real restaurant address or phone number.",
+    "source": "brand profile demo notice",
+    "last_reviewed": "2026-10-15"
+  },
+  {
+    "id": "FAQ-011",
+    "category": "Opening Hours",
+    "question": "What are your opening hours?",
+    "answer": "The demo configuration shows Tuesday to Thursday 17:30–21:30, Friday 17:00–22:00, Saturday 12:00–22:00 and Sunday 12:00–20:30, with Monday closed. These are fictional sample hours and should be read from the live configuration rather than hard-coded into the AI.",
+    "source": "brand profile opening_hours",
+    "last_reviewed": "2026-10-15"
+  },
+  {
+    "id": "FAQ-012",
+    "category": "Reviews",
+    "question": "Can I leave a review?",
+    "answer": "The planned review feature allows customers to rate a dish from one to five stars and add a written comment. A verified-purchase label should only appear when the system has confirmed a qualifying order.",
+    "source": "review feature specification",
+    "last_reviewed": "2026-10-15"
+  }
+]
